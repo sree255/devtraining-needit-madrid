@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ntable" max_length="40" name="x_58872_needit_ntable" type="collection">
+        <element label="New field2" max_length="40" name="new_field2" type="integer"/>
+        <element label="Number" max_length="40" name="number" reference="x_58872_needit_40" type="string"/>
+    </element>
+</database>
